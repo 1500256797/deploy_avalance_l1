@@ -171,7 +171,15 @@ ICM 使用账户：
 -   重启本地网络：`avalanche network start`
 -   清理网络：`avalanche network clean`
 
-## 0x9 常见问题解答
+## 0x9 效果展示
+
+这里的 X token 是部署的 L1 链的代币，可以用来支付 gas 费用，地位相当于以太坊链上的 ETH。
+![钱包余额](./images/show-banlance.png)
+
+这是 rpc 的信息，可以看到网络的名称、chain id、代币符号和名称、rpc 地址等。
+![rpc网络信息](./images/show-rpc.png)
+
+## 0x10 常见问题解答
 
 **Q: 如何定制原生 token 的释放、增发机制等？**
 
