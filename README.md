@@ -171,7 +171,7 @@ ICM 使用账户：
 -   重启本地网络：`avalanche network start`
 -   清理网络：`avalanche network clean`
 
-## 常见问题解答
+## 0x9 常见问题解答
 
 **Q: 如何定制原生 token 的释放、增发机制等？**
 
